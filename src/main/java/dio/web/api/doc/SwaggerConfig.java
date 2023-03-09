@@ -18,7 +18,7 @@ import java.util.HashSet;
 public class SwaggerConfig {
     private Contact contato() {
         return new Contact(
-                "Seu nome",
+                "Israel Douglas",
                 "http://www.seusite.com.br",
                 "voce@seusite.com.br");
     }
